@@ -6,7 +6,7 @@ Fizzbuzz is a coding standard for testing individuals on their coding prowess
 `git clone path-to-your-repo`
 
 ## Usage (enter irb)
-`require "./lib/fizzbuzz"
+`require "./lib/fizzbuzz"'
 `fizzbuzz(number)`
 
 ## Running tests
